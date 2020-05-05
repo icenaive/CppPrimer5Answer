@@ -6,6 +6,9 @@
         "vector": "cpp",
         "xstring": "cpp",
         "stdexcept": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "set": "cpp",
+        "map": "cpp",
+        "algorithm": "cpp"
     }
 }
